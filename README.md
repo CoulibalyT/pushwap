@@ -1,5 +1,11 @@
 # pushwap
 
+
+Creer un programme de trie
+
+
+
+
 • Le programme est composé de deux listes de nombres nommées la et lb.
 
 • Vous devez créer un programme dans lequel la est donnée en paramètre (toutes les données sont valides et n’ont pas besoin d’être vérifiées).
