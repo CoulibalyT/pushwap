@@ -1,7 +1,7 @@
 # pushwap
 
 
-Creer un programme de trie
+Creer un programme de tri
 
 
 
