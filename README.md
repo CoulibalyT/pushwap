@@ -26,13 +26,16 @@ lb
 est vide).
 
 • pb : prend le premier élément de la et le place à la première position de lb (rien ne se produit si
-1�
-la
-est vide).
+la est vide).
 
 • ra : fait une rotation de la vers le début. (le premier élément devient le dernier)
+
 • rb : fait une rotation de lb vers le début (le premier élément devient le dernier).
+
 • rr : ra et rb en même temps.
+
 • rra : fait une rotation de la vers la fin. (le dernier élément devient le premier).
+
 • rrb : fait une rotation de lb vers la fin. (le dernier élément devient le premier).
+
 • rrr : rra et rrb en même temps.
